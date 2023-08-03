@@ -8,7 +8,9 @@ Welcome to the DEV FUSION LAB organization! This repository contains guidelines 
 - [Getting Started](#getting-started)
 - [Branching Strategy](#branching-strategy)
 - [Pull Requests](#pull-requests)
-- [Code Style and Formatting](#naming-conventions)
+- [Naming_Conventions](#naming-conventions)
+- [Repository_Naming_Conventions](#repository_naming_conventions)
+- [Code Style and Formatting](#code_style_and_formatting)
 - [Issue Tracking](#issue-tracking)
 - [Code Review](#code-review)
 - [Continuous Integration](#continuous-integration)
@@ -46,6 +48,7 @@ Please ensure that each pull request is targeted to the appropriate branch, and 
 - The PR should reference any related issues using the GitHub issue number, e.g., "Fixes #123."
 - Request reviews from relevant team members to ensure timely feedback and approval.
 
+## Code Style and Formatting
 
 ## Naming Conventions
 
@@ -87,7 +90,7 @@ When creating GitHub repositories, use meaningful names that reflect the project
 - **Example**: `utils-library`, `common-components`, `data-access-module`.
 
 
-### Code Style and Formatting
+## Code Style and Formatting
 
 Consistent code style makes it easier to read, maintain, and collaborate on code. We use a consistent code style across all projects, and we follow the style guides appropriate for the programming languages and technologies used.
 
