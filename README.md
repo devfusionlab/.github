@@ -8,7 +8,7 @@ Welcome to the DEV FUSION LAB organization! This repository contains guidelines 
 - [Getting Started](#getting-started)
 - [Branching Strategy](#branching-strategy)
 - [Pull Requests](#pull-requests)
-- [Code Style and Formatting](#code-style-and-formatting)
+- [Code Style and Formatting](#naming-conventions)
 - [Issue Tracking](#issue-tracking)
 - [Code Review](#code-review)
 - [Continuous Integration](#continuous-integration)
@@ -56,6 +56,8 @@ Consistent naming conventions improve code readability and maintainability. Adhe
 - **Function Naming**: Follow camelCase for function names, starting with a lowercase letter, and use descriptive names that indicate the function's purpose.
 - **Class Naming**: Use PascalCase for class names, starting with an uppercase letter, and use descriptive names that represent the class's role.
 - **Constant Naming**: Use uppercase letters with underscores to name constants, providing a clear indication of their immutability.
+
+
 ## Repository Naming Conventions
 
 When creating GitHub repositories, use meaningful names that reflect the project's purpose, context, and technology. Follow the naming conventions below to ensure clarity and consistency across your organization.
