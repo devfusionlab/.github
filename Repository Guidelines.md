@@ -15,8 +15,6 @@ Welcome to the DEV FUSION LAB organization! This repository contains guidelines 
 - [Code Review](#code-review)
 - [Continuous Integration](#continuous-integration)
 - [Security](#security)
-- [Naming Conventions](#naming-conventions)
-- [License](#license)
 
 ## Introduction
 
