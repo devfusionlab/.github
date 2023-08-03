@@ -90,12 +90,19 @@ When creating GitHub repositories, use meaningful names that reflect the project
 
 ## Code Style and Formatting
 
-Consistent code style makes it easier to read, maintain, and collaborate on code. We use a consistent code style across all projects, and we follow the style guides appropriate for the programming languages and technologies used.
+Consistent code style and formatting are essential for maintaining readability and making code reviews efficient. We use [Prettier](https://prettier.io/) to enforce a consistent code style in our TypeScript and Java projects.
 
-- For JavaScript, we use the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
-- For Python, we use the [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
+- **TypeScript**: Use Prettier with the following configuration:
 
-Use code formatters and linters to ensure adherence to the style guides.
+  ```json
+  {
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2
+  }
+  ```
+- **Java**: Use Prettier in combination with a code formatter that aligns with the Java style guide.
+Ensure that Prettier is integrated into your code editor or build system to automatically format the code on save or before committing changes.
 
 ## Issue Tracking
 
