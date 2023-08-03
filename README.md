@@ -48,8 +48,6 @@ Please ensure that each pull request is targeted to the appropriate branch, and 
 - The PR should reference any related issues using the GitHub issue number, e.g., "Fixes #123."
 - Request reviews from relevant team members to ensure timely feedback and approval.
 
-## Code Style and Formatting
-
 ## Naming Conventions
 
 Consistent naming conventions improve code readability and maintainability. Adhere to the following naming conventions in our projects:
